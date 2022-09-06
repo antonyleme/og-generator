@@ -75,8 +75,8 @@ function App() {
             fontFamily='Roboto'
           >
             <Box textAlign='center' pt='70px' position='relative' zIndex='10000'>
-              <Box mb='15px'>
-                <Box pb='0px' display='inline-block' fontWeight='600' fontSize='80px' px='10%' borderBottom='2px solid white'>
+              <Box w='900px' mb='15px'>
+                <Box display='inline-block' fontWeight='600' fontSize='80px' px='50px' borderBottom='2px solid white'>
                   {title}
                 </Box>
                 {/* <Box mb='12px' mx='auto' w='116%' h='2px' bg='white' ml='-8%'/> */}
